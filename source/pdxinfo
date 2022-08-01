@@ -1,0 +1,7 @@
+name=trolley-test
+author=Drew Loebach
+description=test program to view trolley render
+bundleID=aloebach.trolley.test
+version=1.0
+imagePath=launcher/
+launchSoundPath=launcher/
